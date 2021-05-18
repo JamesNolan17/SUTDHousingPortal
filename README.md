@@ -8,6 +8,12 @@
 <!-- [![codecov](https://codecov.io/gh/MarkHershey/SUTDHousingPortal/branch/master/graph/badge.svg?token=CUDPJZRG4Y)](https://codecov.io/gh/MarkHershey/SUTDHousingPortal) -->
 
 Focusing on transparent application process and efficient events management, this is the proposed web-based Housing Portal MVP for SUTD.
+## Demo
+(Youtube: https://youtu.be/a9598FzhCR4)
+
+https://user-images.githubusercontent.com/61568403/118585944-70e1f500-b7cc-11eb-8903-83054d9b9bca.mp4
+
+
 
 ## Stack
 
